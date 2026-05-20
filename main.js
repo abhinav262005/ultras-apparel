@@ -1,9 +1,4 @@
-/* ============================================================
-   ULTRAS. — main.js
-   Generates all repetitive HTML content dynamically
-   ============================================================ */
 
-/* ── DATA ─────────────────────────────────────────────────── */
 
 const NAV_LINKS = [
   "Women", "Men", "Kids", "Accessories",
